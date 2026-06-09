@@ -125,7 +125,7 @@ Both models trained with:
 
 ## License
 
-MIT License — see   License for details.
+MIT License — see   License (https://github.com/mehyaz20/GA-LSTM-ECG-Classification/blob/main/License) for details.
 
 ## Citation
 
