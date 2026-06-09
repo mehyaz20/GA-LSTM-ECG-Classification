@@ -114,9 +114,13 @@ Both models trained with:
 ## Confusion Matrices
 
 **MIT-BIH:**  
+<img width="2400" height="1800" alt="cm_mitbih" src="https://github.com/user-attachments/assets/f15f3924-28fc-4562-9623-b43da2cafb23" />
+
 ![MIT-BIH Confusion Matrix](results/cm_mitbih.png)
 
 **PTB:**  
+<img width="1800" height="1500" alt="cm_ptb_v2" src="https://github.com/user-attachments/assets/72bb21b8-f8c9-4d34-9ead-a1269e82f0b6" />
+
 ![PTB Confusion Matrix](results/cm_ptb_v2.png)
 
 ---
